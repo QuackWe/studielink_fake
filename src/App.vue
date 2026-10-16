@@ -8,7 +8,7 @@ const categories = [
   { id: 'programmes', type: 'lines', icon: '✓⃝', title: 'Study programmes',
     lines: ['Tilburg University', 'MSc Cognitive Science and Artificial Intelligence', 'Academic year · 2026–2027', 'Status: Enrolled'] },
   { id: 'education', type: 'lines', icon: '🏛️', title: 'Previous education',
-    lines: ['MSc Data Science and Artificial Intelligence', 'Eindhoven University of Technology · Completed 2025', 'BSc COgnitive Science and Artificial Intelligence', 'Tilburg University · Completed 2022'] },
+    lines: ['MSc Data Science and Artificial Intelligence', 'Eindhoven University of Technology · Completed 2025', 'BSc Cognitive Science and Artificial Intelligence', 'Tilburg University · Completed 2022'] },
   { id: 'messages', type: 'messages', icon: '✉️', title: 'Messages',
     messages: [
       { title: 'Your enrolment request has been received', date: '12 October 2026', status: 'Opened message' },
