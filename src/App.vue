@@ -2,7 +2,7 @@
 import { ref } from 'vue'
 
 const menuOpen = ref(false)
-const logoSrc = '/src/logo-studielink.gif' // put your GIF at public/logo.gif
+import logoSrc from './logo-studielink.gif'
 
 const categories = [
   { id: 'programmes', type: 'lines', icon: '✓⃝', title: 'Study programmes',
